@@ -1,25 +1,24 @@
 {
-    "name": "Employee Tracker",
-    "version": "1.0.0",
-    "description": "Homework #12",
-    "main": "",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/sagelogan/EmployeeTracker"
-    },
-    "keywords": [],
-    "author": "sagelogan",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/sagelogan/EmployeeTracker/issues"
-    },
-    "homepage": "https://github.com/sagelogan/EmployeeTracker",
-    "dependencies": {
-      "mysql2": "^2.2.5",
-      "inquirer": "^7.3.3"
-      
-    }
+  "name": "",
+  "version": "1.0.0",
+  "description": "Homework #12",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sagelogan/EmployeeTracker"
+  },
+  "keywords": [],
+  "author": "sagelogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagelogan/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/sagelogan/EmployeeTracker",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "inquirer": "^7.3.3"
   }
+}
